@@ -2,7 +2,7 @@
 layout: default
 title: First page
 parent: The Band's History
-nav_order: 1
+nav_order: 2
 ---
 
 

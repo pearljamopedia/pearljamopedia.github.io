@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Travel Guidelines
-parent: Lab Basics
-nav_order: 8
+title: First page
+parent: The Band's History
+nav_order: 1
 ---
 
 

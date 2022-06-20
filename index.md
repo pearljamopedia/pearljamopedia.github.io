@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to The Pearl Jam Encyclopedia
 
-This is the Pearl Jam Encyclopedia. Add some text here to describe the website...
+Pearl Jam is a band... fix this!
 
 #### Thank you to the contributors for LINC tutorials!
 <ul class="list-style-none">

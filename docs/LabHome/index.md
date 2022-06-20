@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Lab Basics
+title: The Band's History
 has_children: true
 has_toc: true
 nav_order: 2
 ---
 
-# Lab Basics
-
-Here, you will find details regarding basic lab procedures at PennLINC
+# The Band's History
 

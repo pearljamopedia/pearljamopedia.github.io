@@ -2,9 +2,9 @@
 layout: default
 title: Who's Pearl Jam?
 parent: The Band's History
-nav_order: 2
+nav_order: 1
+has_toc: true
 ---
-
 
 # Who's Pearl Jam?
 

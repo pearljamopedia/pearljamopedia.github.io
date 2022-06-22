@@ -3,13 +3,14 @@ layout: default
 title: The Band's History
 has_children: true
 nav_order: 2
+has_toc: true
 ---
 # The Band's History
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-• TOC
+1. TOC
 {:toc}
 
 ## Who's Pearl Jam? 

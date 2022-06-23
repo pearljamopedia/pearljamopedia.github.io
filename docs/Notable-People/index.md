@@ -5,5 +5,6 @@ has_children: true
 has_toc: true
 nav_order: 2
 ---
+# Notable People
 
 Here you can read about notable people who are associated with Pearl Jam.

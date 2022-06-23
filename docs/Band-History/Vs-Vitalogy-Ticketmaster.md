@@ -21,4 +21,4 @@ In 1994, Pearl Jam played two charity shows in [Chicago, Illinois](https://googl
 
 While touring for Vs., Pearl Jam not only wrote, but also recorded songs for [Vitalogy](https://google.com). In fact, the majority of the songs for the album were recorded on breaks during the tour. After recording Vitalogy, [Dave Abbruzzese](https://google.com) was fired, due to differences between him and the band. He was replaced by [Jack Irons](https://google.com).
 
-On November 22, 1994, Vitalogy was released. The CD for the album quickly became the second-fastest selling in history, selling 877,000 copies in its first week. ["Spin the Black Circle"] won a [Grammy Award](https://google.com) in 1996 for [Best Hard Rock Performance](https://google.com).
+On November 22, 1994, Vitalogy was released. The CD for the album quickly became the second-fastest selling in history, selling 877,000 copies in its first week. ["Spin the Black Circle"](https://google.com) won a [Grammy Award](https://google.com) in 1996 for [Best Hard Rock Performance](https://google.com).

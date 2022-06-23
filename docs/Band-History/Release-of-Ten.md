@@ -6,7 +6,7 @@ has_children: false
 has_toc: false
 nav_order: 3
 ---
-# The release of Ten
+# The release of *Ten*
 
 In March of 1991, Pearl Jam entered [London Bridge Studios](https://google.com) to record [Ten](https://google.com). In May of 1991, [Dave Krusen](https://google.com) left the band to check himself into rehabillitation for alcoholism, so he was replaced by [Matt Chamberlain](https://google.com). Chamberlain played a few shows, but then left to join the [Saturday Night Live](https://google.com) band. He suggested [Dave Abbruzzese](https://google.com). Abbruzzese joined the band and played the rest of the shows for the Ten tour.
 

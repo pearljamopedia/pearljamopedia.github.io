@@ -13,9 +13,9 @@ At the [1993 MTV Video Music Awards], Pearl Jam received four awards for the mus
 
 In February of 1993, Pearl Jam entered the studio once more to record their second album, [Vs.](https://google.com). The record sold almost one million (950,378) copies in the first week following its release, and even set the record for most copies of an album sold within the first week of release (which was then surpassed in 1998). The album contained the singles ["Go"](https://google.com), ["Daughter"](https://google.com), ["Animal"](https://google.com), and ["Dissident"](https://google.com)
 
-## The Ticketmaster legal battle
+# The Ticketmaster legal battle
 
 In 1994, Pearl Jam played two charity shows in [Chicago, Illinois](https://google.com), however, the band was furious when it had found out that ticket vendor [Ticketmaster](https://google.com) was adding a service charge to tickets. The band was committed to keeping ticket prices down but the company refused to remove the charge. 
 
-##
+#
 

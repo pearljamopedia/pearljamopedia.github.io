@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Current Members
-parent: The Band's History
+parent: Notable People
 nav_order: 1
 has_toc: true
 has_children: true

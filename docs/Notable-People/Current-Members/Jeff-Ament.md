@@ -2,8 +2,8 @@
 layout: default
 title: Jeff Ament
 parent: Current Members
+grand_parent: Notable People
 nav_order: 2
-has_toc: false
 ---
 
 # Jeff Ament

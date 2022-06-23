@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Seattle, WA
-parent: Notable Mentions
-has_children: false
-has_toc: false
-nav_order: 3
+parent: Locations
+grand_parent: Notable Mentions
+nav_order: 1
 ---
 
 # Seattle, WA

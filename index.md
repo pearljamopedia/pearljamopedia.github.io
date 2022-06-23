@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to the Pearl Jam Encyclopedia
 
-Pearl Jam is an American rock band founded in 1990, in Seattle, WA. The band’s current lineup consists of Jeff Ament (bass guitar), Matt Cameron (drums) Stone Gossard (rhythm guitar), Mike McCready (lead guitar), and Eddie Vedder (lead vocals, guitar). Since 2002, keyboardist Boom Gaspar has been a session and touring member of the band.
+Pearl Jam is an American rock band founded in 1990, in [Seattle, WA](https://google.com). The band’s current lineup consists of [Jeff Ament](https://google.com) (bass guitar), [Matt Cameron](https://google.com) (drums) [Stone Gossard](https://google.com) (rhythm guitar), [Mike McCready](https://google.com) (lead guitar), and [Eddie Vedder](https://google.com) (lead vocals, guitar). Since 2002, keyboardist [Boom Gaspar](https://google.com) has been a session and touring member of the band.
 
 #### Thank you to the contributors for LINC tutorials!
 <ul class="list-style-none">

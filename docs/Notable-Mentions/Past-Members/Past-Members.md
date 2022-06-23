@@ -3,8 +3,8 @@ layout: default
 title: Past Members
 nav_order: 2
 has_children: true
-parent: Notable People
-permalink: /docs/Notable-People/Past-Members
+parent: Notable Mentions
+permalink: /docs/Notable-Mentions/Past-Members
 ---
 
 # Past Members

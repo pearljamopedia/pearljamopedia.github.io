@@ -2,7 +2,7 @@
 layout: default
 title: Dave Abbruzzese
 parent: Past Members
-grand_parent: Notable People
+grand_parent: Notable Mentions
 nav_order: 4
 ---
 

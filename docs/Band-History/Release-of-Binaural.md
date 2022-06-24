@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The release of Binaural
+title: Leaving Epic Records and the release of Binaural 
 parent: The Band's History
 has_children: false
 has_toc: true

@@ -7,4 +7,6 @@ parent: Notable Mentions
 permalink: /docs/Notable-Mentions/current-members
 ---
 
+# Current Members
+
 Here you can read about the current touring and session members of Pearl Jam.

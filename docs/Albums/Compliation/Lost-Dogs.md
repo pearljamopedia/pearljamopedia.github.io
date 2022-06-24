@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lost Dogs
-parent: Compliation
+parent: Compliation Albums
 grand_parent: Albums
 nav_order: 1
 ---

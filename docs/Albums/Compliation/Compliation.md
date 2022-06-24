@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compliation
+title: Compliation Albums
 nav_order: 3
 has_children: true
 parent: Albums

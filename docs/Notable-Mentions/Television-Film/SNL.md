@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SNL
-parent: Television
+parent: Television/Film
 grand_parent: Notable Mentions
 nav_order: 1
 ---

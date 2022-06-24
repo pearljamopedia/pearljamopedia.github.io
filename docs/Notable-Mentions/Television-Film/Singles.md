@@ -1,11 +1,11 @@
 ---
 layout: default
-title: MTV Unplugged
-parent: Television
+title: Singles (1992)
+parent: Television/Film
 grand_parent: Notable Mentions
 nav_order: 2
 ---
 
-# MTV Unplugged
+# Singles (1992)
 
 ...

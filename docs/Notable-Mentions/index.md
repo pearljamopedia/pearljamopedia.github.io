@@ -7,4 +7,4 @@ nav_order: 3
 ---
 # Notable Mentions
 
-Here you can read about notable people, locations, bands, etc. who are associated with Pearl Jam.
+Here you can read about notable people, locations, bands, etc. that are associated with Pearl Jam.

@@ -15,10 +15,10 @@ In February of 1993, Pearl Jam entered the studio once more to record their seco
 
 # The Ticketmaster legal battle
 
-In 1994, Pearl Jam played two charity shows in [Chicago, Illinois](https://google.com), however, the band was furious when it had found out that ticket vendor [Ticketmaster](https://google.com) was adding a service charge to tickets. The band was committed to keeping ticket prices down but the company refused to remove the charge. 
+In 1994, Pearl Jam played two charity shows in [Chicago, Illinois](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Chicago-IL), however, the band was furious when it had found out that ticket vendor [Ticketmaster](https://google.com) was adding a service charge to tickets. The band was committed to keeping ticket prices down but the company refused to remove the charge. 
 
 # The release of *Vitalogy*
 
-While touring for Vs., Pearl Jam not only wrote, but also recorded songs for [Vitalogy](https://google.com). In fact, the majority of the songs for the album were recorded on breaks during the tour. After recording Vitalogy, [Dave Abbruzzese](https://google.com) was fired, due to differences between him and the band. He was replaced by [Jack Irons](https://google.com).
+While touring for Vs., Pearl Jam not only wrote, but also recorded songs for [Vitalogy](https://google.com). In fact, the majority of the songs for the album were recorded on breaks during the tour. After recording Vitalogy, [Dave Abbruzzese](https://pearljamopedia.ml/docs/Notable-Mentions/Past-Members/Dave-Abbruzzese) was fired, due to differences between him and the band. He was replaced by [Jack Irons](https://pearljamopedia.ml/docs/Notable-Mentions/Past-Members/Jack-Irons).
 
 On November 22, 1994, Vitalogy was released. The CD for the album quickly became the second-fastest selling in history, selling 877,000 copies in its first week. ["Spin the Black Circle"](https://google.com) won a [Grammy Award](https://google.com) in 1996 for [Best Hard Rock Performance](https://google.com).

@@ -6,6 +6,6 @@ grand_parent: Albums
 nav_order: 6
 ---
 
-# Binaural
+# *Binaural*
 
 ...

@@ -6,4 +6,4 @@ grand_parent: Albums
 nav_order: 2
 ---
 
-# Vs.
+# *Vs.*

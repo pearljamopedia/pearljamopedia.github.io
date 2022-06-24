@@ -6,6 +6,6 @@ grand_parent: Albums
 nav_order: 7
 ---
 
-# Riot Act
+# *Riot Act*
 
 ...

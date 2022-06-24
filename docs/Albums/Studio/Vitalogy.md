@@ -6,4 +6,4 @@ grand_parent: Albums
 nav_order: 3
 ---
 
-# Vitalogy
+# *Vitalogy*

@@ -6,6 +6,6 @@ grand_parent: Albums
 nav_order: 8
 ---
 
-# Pearl Jam
+# *Pearl Jam*
 
 ...

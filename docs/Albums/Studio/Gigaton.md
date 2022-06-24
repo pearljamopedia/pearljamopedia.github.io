@@ -6,6 +6,6 @@ grand_parent: Albums
 nav_order: 11
 ---
 
-# Gigaton
+# *Gigaton*
 
 ...

@@ -7,7 +7,7 @@ has_toc: true
 nav_order: 6
 ---
 
-# The release of *Binaural*
+# Leaving Epic Records and the release of *Binaural*
 
 After touring for [Yield](https://pearljamopedia.ml/docs/Albums/Studio/Yield), Pearl Jam took a break, but entered the studio once again in September of 1999 to record [Binaural](https://pearljamopedia.ml/docs/Albums/Studio/Binaural). This was drummer [Matt Cameron](https://pearljamopedia.ml/docs/Notable-Mentions/Current-Members/Matt-Cameron)'s first album with the band. Including some of the darker songs coming from Pearl Jam's catalog, *Binaural* featured the singles ["Nothing As It Seems"](https://pearljamopedia.ml/docs/Albums/Studio/Binaural) and ["Light Years"](https://pearljamopedia.ml/docs/Albums/Studio/Binaural). *Binaural* was released on May 16, 2000.
 

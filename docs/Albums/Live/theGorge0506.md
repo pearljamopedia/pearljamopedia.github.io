@@ -6,4 +6,4 @@ grand_parent: Albums
 nav_order: 3
 ---
 
-# Live at the Gorge 05/06
+# *Live at the Gorge 05/06*

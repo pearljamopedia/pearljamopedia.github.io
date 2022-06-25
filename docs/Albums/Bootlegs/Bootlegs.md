@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bootlegs
+title: Official Bootlegs
 nav_order: 3
 has_children: true
 parent: Live

@@ -40,7 +40,7 @@ aux_links:
 footer_content: "Copyright &copy; 2022 RedDot. Read the thing on the left.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

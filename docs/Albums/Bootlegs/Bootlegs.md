@@ -3,7 +3,7 @@ layout: default
 title: Official Bootlegs
 nav_order: 3
 has_children: true
-parent: Live
+parent: Albums
 permalink: /docs/Albums/Bootlegs
 ---
 

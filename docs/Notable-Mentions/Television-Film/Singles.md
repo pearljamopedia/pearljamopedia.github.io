@@ -6,6 +6,6 @@ grand_parent: Notable Mentions
 nav_order: 2
 ---
 
-# Singles (1992)
+# *Singles* (1992)
 
 ...

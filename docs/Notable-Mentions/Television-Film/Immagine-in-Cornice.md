@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Live at the Garden
+title: Immagine in Cornice
 parent: Television/Film
 grand_parent: Notable Mentions
-nav_order: 6
+nav_order: 7
 ---
 
-# *Live at the Garden*
-
-...
+# *Immagine in Cornice*

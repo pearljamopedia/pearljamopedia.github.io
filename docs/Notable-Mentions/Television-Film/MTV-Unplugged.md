@@ -6,6 +6,6 @@ grand_parent: Notable Mentions
 nav_order: 3
 ---
 
-# MTV Unplugged
+# MTV *Unplugged*
 
 ...

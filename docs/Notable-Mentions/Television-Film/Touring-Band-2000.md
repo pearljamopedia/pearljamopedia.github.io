@@ -6,6 +6,6 @@ grand_parent: Notable Mentions
 nav_order: 5
 ---
 
-# Touring Band 2000
+# *Touring Band 2000*
 
 ...

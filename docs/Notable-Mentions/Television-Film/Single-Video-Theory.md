@@ -6,4 +6,4 @@ grand_parent: Notable Mentions
 nav_order: 4
 ---
 
-# Single Video Theory
+# *Single Video Theory*

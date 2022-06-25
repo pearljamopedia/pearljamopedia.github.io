@@ -15,5 +15,5 @@ On November 29, 2019, vinyl and CD editions of the band's 1992 [MTV Unplugged pe
 
 # 2021/2022 *Gigaton* Tour
 
-On September 18, 2021, in **New Jersey**, the band played their first show in 3 years. However when the band begun the rescheduled 2022 tour for their latest album, 5 concerts in, drummer [Matt Cameron](https://pearljamopedia.ml/docs/Notable-Mentions/Current-Members/Matt-Cameron) was absent for a few shows due to **COVID-19**. Another member, bassist [Jeff Ament](https://pearljamopedia.ml/docs/Notable-Mentions/Current-Members) also caught **COVID-19** so the rest of the first leg of the tour was cancelled. The full band returned in June of 2022 in Europe to continue the tour.
+On September 18, 2021, in **New Jersey**, the band played their first show in 3 years. However when the band begun the rescheduled 2022 tour for their latest album, 5 concerts in, drummer [Matt Cameron](https://pearljamopedia.ml/docs/Notable-Mentions/Current-Members/Matt-Cameron) was absent for a few shows due to **COVID-19**. Another member, bassist [Jeff Ament](https://pearljamopedia.ml/docs/Notable-Mentions/Current-Members/Jeff-Ament) also caught **COVID-19** so the rest of the first leg of the tour was cancelled. The full band returned in June of 2022 in Europe to continue the tour.
 

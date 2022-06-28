@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Vault 6 Great Western Forum Inglewood CA 7/13/1998
-parent: Live Albums
+parent: Vault
 grand_parent: Albums
-nav_order: 15
+nav_order: 6
 ---
 
 # *Vault #6 Great Western Forum Inglewood CA 7/13/1998*

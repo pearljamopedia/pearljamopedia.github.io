@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Vault 1 Moore Theater 
-parent: Live Albums
+parent: Vault
 grand_parent: Albums
-nav_order: 10
+nav_order: 1
 ---
 
 # *Vault #1 Moore Theater*

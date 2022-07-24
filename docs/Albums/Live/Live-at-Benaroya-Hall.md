@@ -8,7 +8,7 @@ nav_order: 2
 
 # *Live at Benaroya Hall*
 
-*Live at Benaroya Hall* is a concert album documenting Pearl Jam's October 22, 2003 performance at [Seattle](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA)'s **Benaroya Hall**. *Live at Benaroya Hall* was released on July 27, 2004.
+*Live at Benaroya Hall* is a live album documenting Pearl Jam's October 22, 2003 performance at [Seattle](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA)'s **Benaroya Hall**. *Live at Benaroya Hall* was released on July 27, 2004.
 
 <img src="/assets/benaroya.png" alt="Live at Benaroya Hall" width="900" height="602">
 

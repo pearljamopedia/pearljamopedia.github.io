@@ -2,7 +2,7 @@
 layout: default
 title: The Binaural Tour (2000)
 parent: On the Long Road (Tours)
-nav_order: 8
+nav_order: 9
 ---
 
 # The [Binaural](https://pearljamopedia.ml/docs/Albums/Studio/Binaural) Tour (2000)

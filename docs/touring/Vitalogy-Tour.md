@@ -11,7 +11,7 @@ Pearl Jam played 36 shows during their 1995 tour to support the band's third alb
 
 | Date | Venue | Opening Act | Notes |
 | ---- | ----- | ----------- | ----- |
-| February 5, 1995 | Moore Theater, [Seattle, WA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA) | Warm-up show
+| February 5, 1995 | Moore Theater, [Seattle, WA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA) | | Warm-up show
 | February 6, 1995 | Moore Theater, Seattle, WA | Magnog | Warm-up show
 | February 8, 1995 | Adams Fieldhouse, Missoula, MT | Shangri-La Speedway | Warm-up show
 | February 18, 1995 | Izumity 21, Sendai, Japan | | |

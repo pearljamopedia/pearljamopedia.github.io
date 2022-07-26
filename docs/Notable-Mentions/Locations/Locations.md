@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Locations
-nav_order: 5
+nav_order: 6
 has_children: true
 parent: Notable Mentions
 permalink: /docs/Notable-Mentions/Locations

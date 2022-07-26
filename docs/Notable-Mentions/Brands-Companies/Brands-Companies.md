@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brands/Companies
-nav_order: 6
+nav_order: 8
 has_children: true
 parent: Notable Mentions
 permalink: /docs/Notable-Mentions/Brands-Companies

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bands
-nav_order: 3
+nav_order: 4
 has_children: true
 parent: Notable Mentions
 permalink: /docs/Notable-Mentions/Bands

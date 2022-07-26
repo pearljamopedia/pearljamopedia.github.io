@@ -3,7 +3,7 @@ layout: default
 title: The Gigaton Tour (2022)
 parent: On the Long Road (Tours)
 nav_order: 22
----
+--- 
 
 # The [Gigaton](https://pearljamopedia.ml/docs/Albums/Studio/Gigaton) Tour (20~~20~~22)
 

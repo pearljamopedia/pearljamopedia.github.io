@@ -49,4 +49,5 @@ Pearl Jam played 36 shows during their (rescheduled from 2020) 2022 tour in supp
 | September 18, 2022 | Enterprise Center, St. Louis, MO | |
 | September 20, 2022 | Paycom Center, Oklahoma City, OK | |
 | September 22, 2022 | Ball Arena, Denver, CO | |
+
 ---------------------------------------------------------------------------------

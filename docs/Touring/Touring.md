@@ -3,7 +3,7 @@ layout: default
 title: On the Long Road (Tours)
 nav_order: 4
 has_children: true
-permalink: docs/touring
+permalink: docs/Touring
 ---
 
 # On the Long Road

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 2008 U.S Tour
+title: The Gigaton Tour (20~~20~~22)
 parent: On the Long Road (Tours)
-nav_order: 14
+nav_order: 22
 ---
 
-# 2008 United States Tour
+# The [Gigaton](https://pearljamopedia.ml/docs/Albums/Studio/Gigaton) Tour (20~~20~~22)
 
-Pearl Jam played 14 shows during their 2008 tour of the United States:
+Pearl Jam played 36 shows during their (rescheduled from 2020) 2022 tour in support of their eleventh album, *Gigaton*:
 
 | Date | Venue | Opening Act | Supporting | Notes |
 | ---- | ----- | ----------- | ---------- | ----- |

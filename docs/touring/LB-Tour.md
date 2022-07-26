@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 2008 U.S Tour
+title: The Lightning Bolt Tour (2013-2014)
 parent: On the Long Road (Tours)
-nav_order: 14
+nav_order: 18
 ---
 
-# 2008 United States Tour
+# The [Lightning Bolt](https://pearljamopedia.ml/docs/Albums/Studio/Lightning-Bolt) Tour (2013-2014)
 
-Pearl Jam played 14 shows during their 2008 tour of the United States:
+Pearl Jam played 57 shows during their 2013-2014 tour in support of their tenth album, *Lightning Bolt*:
 
 | Date | Venue | Opening Act | Supporting | Notes |
 | ---- | ----- | ----------- | ---------- | ----- |

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Gigaton Tour (<s>2020<s> 2022)
+title: The Gigaton Tour (2022)
 parent: On the Long Road (Tours)
 nav_order: 22
 ---

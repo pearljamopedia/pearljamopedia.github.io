@@ -1,11 +1,11 @@
 ---
 layout: default
-title: The Gigaton Tour (20~~20~~22)
+title: The Gigaton Tour (~~2020~~ 2022)
 parent: On the Long Road (Tours)
 nav_order: 22
 ---
 
-# The [Gigaton](https://pearljamopedia.ml/docs/Albums/Studio/Gigaton) Tour (20~~20~~22)
+# The [Gigaton](https://pearljamopedia.ml/docs/Albums/Studio/Gigaton) Tour (~~2020~~ 2022)
 
 Pearl Jam played 36 shows during their (rescheduled from 2020) 2022 tour in support of their eleventh album, *Gigaton*:
 

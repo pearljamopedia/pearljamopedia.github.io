@@ -9,8 +9,8 @@ nav_order: 22
 
 Pearl Jam played 36 shows during their (rescheduled from 2020) 2022 tour in support of their eleventh album, *Gigaton*:
 
-| Date | Venue | Notes
-| ---- | ----- | ----- 
+| Date | Venue | Notes |
+| ---- | ----- | ----- |
 | May 3, 2022 | Viejas Arena, [San Diego, CA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/San-Diego) | |
 | May 6, 2022 | Kia Forum, Inglewood, CA | |
 | May 7, 2022 | Kia Forum, Inglewood, CA | |

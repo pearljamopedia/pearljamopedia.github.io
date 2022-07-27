@@ -49,6 +49,6 @@ Pearl Jam played 36 shows during their 1995 tour to support the band's third alb
 | November 2, 1995 | Delta Center, Salt Lake City, UT | Fastbacks |
 | November 4, 1995 | Spartan Stadium, San Jose, CA | Fastbacks, [Ben Harper](https://pearljamopedia.ml/docs/Notable-Mentions/People/Ben-Harper)
 | November 6, 1995 | San Diego Sports Arena, [San Diego, CA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/San-Diego) | Ramones | Originally on June 26 at Del Mar Fairgrounds, San Diego, CA
-| November 7, 1995 | San Diego Sports Arena, [San Diego, CA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/San-Diego) | Ramones | Originally on June 27 at Del Mar Fairgrounds, San Diego, CA
+| November 7, 1995 | San Diego Sports Arena, San Diego, CA | Ramones | Originally on June 27 at Del Mar Fairgrounds, San Diego, CA
 
 ---------------------------------------------------------------------------------

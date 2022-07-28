@@ -39,6 +39,33 @@ Pearl Jam played 56 shows during their 2009-2010 tour to support the band's nint
 | November 17, 2009 | Adelaide Oval, Adelaide, Australia |
 | November 20, 2009 | Etihad Stadium, Melbourne, Australia |
 | November 22, 2009 | Sydney Football Stadium, Sydney, Australia |
+| November 25, 2009 | Queensland Sport and Athletics Centre, Brisbane, Australia |
+| November 27, 2009 | Mt Smart Stadium, Auckland, New Zealand |
+| November 29, 2009 | AMI Stadium, Christchurch, New Zealand |
+| May 1, 2010 | Fair Grounds, Race Course, New Orleans, LA | 
+| May 3, 2010 | Sprint Center, Kansas City, MO |
+| May 4, 2010 | Scottrade Center, St. Louis, MO |
+| May 6, 2010 | Nationwide Arena, Columbus, OH |
+| May 7, 2010 | Verizon Wireless Music Center, Noblesville, IN |
+| May 9, 2010 | Quicken Loans Arena, Cleveland, OH |
+| May 10, 2010 | HSBC Arena, Buffalo, NY |
+| May 13, 2010 | Jiffy Lube Live, Bristow, VA |
+| May 15, 2010 | XL Center, Hartford, CT |
+| May 17, 2010 | TD Garden, Boston, MA |
+| May 18, 2010 | Prudential Center, Newark, NJ | 
+| May 20, 2010 | [Madison Square Garden, New York City, NY](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/MSG-NYC) |
+| May 21, 2010 | Madison Square Garden, New York City, NY |
+| June 22, 2010 | The O2, Dublin, Ireland | At this show, a fan broke his harm after jumping off the balcony and landing above the mixing desk |
+| June 23, 2010 | Odyssey Arena, Belfast, Northern Ireland |
+| June 25, 2010 | Hyde Park, London, England |
+| June 27, 2010 | Goffertpark, Nijmegen, Netherlands |
+| June 30, 2010 | Wuhlheide, Berlin, Germany |
+| July 1, 2010 | Lotnisko Gdynia-Kosakowo, Gdynia, Poland |
+| July 3, 2010 | Citadelle Vauban, Arras, France |
+| July 4, 2010 | Werchter Festival Grounds, Werchter, Belgium |
+| July 6, 2010 | Parco San Giuliano, Venice, Italy |
+| July 9, 2010 | Mount Cobetas, Bilbao, Spain |
+| July 10, 2010 | Passeio Marítimo de Alges, Oeiras, Portugal |
 
 ---------------------------------------------------------------------------------
 

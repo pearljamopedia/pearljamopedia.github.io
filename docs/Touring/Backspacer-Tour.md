@@ -6,7 +6,7 @@ nav_order: 15
 ---
 
 # The [Backspacer](https://pearljamopedia.ml/docs/Albums/Studio/Backspacer) Tour (2009-2010)
-NOV22
+
 Pearl Jam played 56 shows during their 2009-2010 tour to support the band's ninth album, *Backspacer*:
 
 | Date | Venue | Notes |

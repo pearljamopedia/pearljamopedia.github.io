@@ -35,6 +35,10 @@ Pearl Jam played 56 shows during their 2009-2010 tour to support the band's nint
 | October 28, 2009 | Wachovia Spectrum, Philadelphia, PA | This was the second night out of the last four events to take place at the Spectrum
 | October 30, 2009 | Wachovia Spectrum, Philadelphia, PA | This was the third night out of the last four events to take place at the Spectrum
 | October 31, 2009 | Wachovia Spectrum, Philadelphia, PA | This was the last event to ever take place at the Spectrum, it turned out to be the longest show in Pearl Jam history, at a show length of more than 3 hours and 35 minutes and a 41-song setlist (the four shows were planned to be the last events) [See *Closing out the Spectrum*](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Spectrum-2009)
+| November 14, 2009 | Members Equity Stadium, Perth, Australia |
+| November 17, 2009 | Adelaide Oval, Adelaide, Australia |
+| November 20, 2009 | Etihad Stadium, Melbourne, Australia |
+| November 22, 2009 | Sydney Football Stadium, Sydney, Australia |
 
 ---------------------------------------------------------------------------------
 

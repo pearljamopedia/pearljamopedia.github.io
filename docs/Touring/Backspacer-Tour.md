@@ -55,7 +55,7 @@ Pearl Jam played 56 shows during their 2009-2010 tour to support the band's nint
 | May 18, 2010 | Prudential Center, Newark, NJ | 
 | May 20, 2010 | [Madison Square Garden, New York City, NY](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/MSG-NYC) |
 | May 21, 2010 | Madison Square Garden, New York City, NY |
-| June 22, 2010 | The O2, Dublin, Ireland | At this show, a fan broke his harm after jumping off the balcony and landing above the mixing desk |
+| June 22, 2010 | The O2, Dublin, Ireland | At this show, a fan broke his arm after jumping off the balcony and landing above the mixing desk |
 | June 23, 2010 | Odyssey Arena, Belfast, Northern Ireland |
 | June 25, 2010 | Hyde Park, London, England |
 | June 27, 2010 | Goffertpark, Nijmegen, Netherlands |

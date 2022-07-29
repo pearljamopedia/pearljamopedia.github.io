@@ -66,7 +66,7 @@ Pearl Jam played 57 shows during their 2013-2014 tour in support of their tenth 
 | October 16, 2014 | Joe Louis Arena, Detroit, MI |
 | October 17, 2014 | iWireless Center, Moline, IL | [Pearl Jam's fourth studio album, *No Code*, was played in its entirety at this show](https://pearljamopedia.ml/docs/Notable-Mentions/Events/No-Code-Show-2014) |
 | October 19, 2014 | Xcel Energy Center, Saint Paul, MN |
-| October 20, 2014 | BMO Harris Bradley Center, Milwaukee, WI | [Pearl Jam's fifth studio album, *Yield*, was played in its entirety at this show](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Yield-Show-2014) |
+| October 20, 2014 | BMO Harris Bradley Center, Milwaukee, WI | [Pearl Jam's fifth studio album, *Yield*, was played in its entirety at this show](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Yield-Show-2014) and was released as [*Vault #10*](https://pearljamopedia.ml/docs/Albums/Vault/Vault-10) |
 | October 22, 2014 | Pepsi Center, Denver, CO |
 | October 25, 2014 | Shoreline Amphitheatre, Mountain View, CA | Part of the [Bridge School Benefit](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Bridge-School-Benefit)
 | October 26, 2014 | Shoreline Amphitheatre, Mountain View, CA | Part of the [Bridge School Benefit](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Bridge-School-Benefit)

@@ -38,6 +38,42 @@ Pearl Jam played 57 shows during their 2013-2014 tour in support of their tenth 
 | December 2, 2013 | Scotiabank Saddledome, Calgary, Canada |
 | December 4, 2013 | Rogers Arena, Vancouver, Canada |
 | December 6, 2013 | Key Arena, [Seattle, WA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA)
+| January 17, 2014 | Western Springs Stadium, Auckland, New Zealand |
+| January 19, 2014 | Metricon Stadium, Gold Coast, Australia |
+| January 24, 2014 | Flemington Racecourse, Melbourne, Australia |
+| January 26, 2014 | Sydney Showgrounds, Sydney, Australia |
+| January 31, 2014 | Bonython Park, Adelaide, Australia |
+| February 2, 2014 | Claremont Showground, Perth, Australia |
+| June 16, 2014 | Ziggo Dome, Amsterdam, Netherlands |
+| June 17, 2014 | Ziggo Dome, Amsterdam, Netherlands |
+| June 20, 2014 | San Siro Stadium, Milan, Italy |
+| June 22, 2014 | Stadio Nereo Rocco, Trieste, Italy |
+| June 25, 2014 | Wiener Stadthalle, Vienna, Austria |
+| June 26, 2014 | Wuhlheide, Berlin, Germany |
+| June 28, 2014 | Friends Arena, Stockholm, Sweden |
+| June 29, 2014 | Telenor Arena, Oslo, Norway |
+| July 3, 2014 | Open'er Festival, Gdynia, Poland |
+| July 5, 2014 | Rock Werchter, Werchter, Belgium |
+| July 8, 2014 | First Direct Arena, Leeds, England |
+| July 11, 2014 | Milton Keynes Bowl, Milton Keynes, England |
+| October 1, 2014 | U.S Bank Arena, Cincinnati, OH |
+| October 3, 2014 | Scottrade Center, St. Louis, MO |
+| October 5, 2014 | Austin City Limits Music Festival, Austin, TX |
+| October 8, 2014 | BOK Center, Tulsa, OK |
+| October 9, 2014 | Pinnacle Bank Arena, Lincoln, NE |
+| October 12, 2014 | Austin City Limits Music Festival, Austin, TX |
+| October 14, 2014 | FedExForum, Memphis, TN |
+| October 16, 2014 | Joe Louis Arena, Detroit, MI |
+| October 17, 2014 | iWireless Center, Moline, IL | [Pearl Jam's fourth studio album, *No Code*, was played in its entirety at this show](https://pearljamopedia.ml/docs/Notable-Mentions/Events/No-Code-Show-2014) |
+| October 19, 2014 | Xcel Energy Center, Saint Paul, MN |
+| October 20, 2014 | BMO Harris Bradley Center, Milwaukee, WI | [Pearl Jam's fifth studio album, *Yield*, was played in its entirety at this show](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Yield-Show-2014) |
+| October 22, 2014 | Pepsi Center, Denver, CO |
+| October 25, 2014 | Shoreline Amphitheatre, Mountain View, CA | Part of the [Bridge School Benefit](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Bridge-School-Benefit)
+| October 26, 2014 | Shoreline Amphitheatre, Mountain View, CA | Part of the [Bridge School Benefit](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Bridge-School-Benefit)
 
 ---------------------------------------------------------------------------------
-incomplete
+
+## Opening Acts
+
+- Midlake (November 15-16)
+- [Mudhoney](https://pearljamopedia.ml/docs/Notable-Mentions/Bands/Mudhoney) (November 29-December 6)

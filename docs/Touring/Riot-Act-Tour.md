@@ -76,7 +76,19 @@ Pearl Jam played 73 shows during their 2002-2003 tour to support the band's seve
 | June 26, 2003 | DTE Energy Music Theatre, Clarkston, MI | Buzzcocks |
 | June 28, 2003 | Molson Amphitheatre, Toronto, Canada | Buzzcocks |
 | June 29, 2003 | Bell Centre, Montreaal, Canada | Buzzcocks |
-| July 1, 2003 | Nissan Pa
+| July 1, 2003 | Nissan Pavilion, Bristow, VA | Buzzcocks |
+| July 2, 2003 | Tweeter Center Boston, Mansfield, MA | Buzzcocks | This show was part of [The Mansfield Experiment](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Mansfield-Experiment)
+| July 3, 2003 | Tweeter Center Boston, Mansfield, MA | Buzzcocks | This show was part of [The Mansfield Experiment](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Mansfield-Experiment) 
+| July 5, 2003 | Tweeter Center at the Waterfront, Camden, NJ | Buzzcocks |
+| July 6, 2003 | Tweeter Center at the Waterfront, Camden, NJ | Buzzcocks |
+| July 8, 2003 | [Madison Square Garden](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/MSG-NYC), New York City, New York | Buzzcocks | This show was released as the concert film [*Live at the Garden*](https://pearljamopedia.ml/docs/Notable-Mentions/Television-Film/Live-at-the-Garden)
+| July 9, 2003 | Madison Square Garden, New York City, New York | Sleater-Kinney |
+| July 11, 2003 | Tweeter Center Boston, Mansfield, MA | Sleater-Kinney | [The Mansfield Experiment](https://pearljamopedia.ml/docs/Notable-Mentions/Events/Mansfield-Experiment)
+| July 12, 2003 | Hersheypark Stadium, Hershey, PA | Sleater-Kinney | 
+| July 14, 2003 | PNC Bank Arts Center, Holmdel, NJ | Sleater-Kinney |
+| July 17, 2003 | Palacio de los Deportes, Mexico City, Mexico | Sleater-Kinney |
+| July 18, 2003 | Palacio de los Deportes, Mexico City, Mexico | Sleater-Kinney |
+| July 19, 2003 | Palacio de los Deportes, Mexico City, Mexico | Sleater-Kinney |
 
 ---------------------------------------------------------------------------------
-incomplete
+

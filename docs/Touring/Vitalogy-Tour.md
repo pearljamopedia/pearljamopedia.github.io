@@ -40,7 +40,7 @@ Pearl Jam played 36 shows during their 1995 tour to support the band's third alb
 | June 24, 1995 | Golden Gate Park, San Francisco, CA | Bad Religion and Crash and Brittany |
 | July 8, 1995 | Marcus Amphitheater, Milwaukee, WI | Bad Religion and The Frogs |
 | July 9, 1995 | Marcus Amphitheater, Milwaukee, WI | Bad Religion and The Frogs |
-| July 11, 1995 | Soldier Field, Chicago, IL | Bad Religion and Otis Rush | This concert was released on [Vault #7](https://pearljamopedia.ml/docs/Albums/Vault/Vault-7)
+| July 11, 1995 | Soldier Field, Chicago, IL | Bad Religion and Otis Rush | This concert was released on [*Vault #7*](https://pearljamopedia.ml/docs/Albums/Vault/Vault-7)
 | September 13, 1995 | Veterans Memorial Coliseum, Phoenix, AZ | [Ramones](https://pearljamopedia.ml/docs/Notable-Mentions/Bands/Ramones) | Originally on June 29
 | September 14, 1995 | Pan American Center, Las Cruces, NM | Ramones | Originally on June 30
 | September 16, 1995 | South Park Meadows, Austin, TX | Ramones | Originally on July 2

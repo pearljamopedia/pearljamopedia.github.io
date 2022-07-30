@@ -76,6 +76,7 @@ Pearl Jam played 73 shows during their 2002-2003 tour to support the band's seve
 | June 26, 2003 | DTE Energy Music Theatre, Clarkston, MI | Buzzcocks |
 | June 28, 2003 | Molson Amphitheatre, Toronto, Canada | Buzzcocks |
 | June 29, 2003 | Bell Centre, Montreaal, Canada | Buzzcocks |
+| July 1, 2003 | Nissan Pa
 
 ---------------------------------------------------------------------------------
 incomplete

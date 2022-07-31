@@ -12,7 +12,7 @@ Pearl Jam played 52 shows during their 1993-1994 tour to support the band's seco
 | Date | Venue | Opening Act | Notes | Artwork |
 | ---- | ----- | ----------- | ----- | ------- |
 | October 25, 1993 | Off Ramp Cafe, [Seattle, WA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA) | | | No artwork available
-| October 27, 1993 | The Catalyst, Santa Cruz, CA | American Music Club | | | No artwork available
+| October 27, 1993 | The Catalyst, Santa Cruz, CA | American Music Club | | No artwork available
 | October 28, 1993 | Warfield Theater, San Francisco, CA | Rollins Band | | [View artwork](https://pearljamopedia.ml/artwork/vs/10-28.jpg){: .btn .btn-outline target="_blank"}
 | October 30, 1993 | SJSU Event Theater, San Jose, CA | Rollins Band | | [View artwork](https://pearljamopedia.ml/artwork/vs/10-30.jpg){: .btn .btn-outline target="_blank"}
 | October 31, 1993 | Hearst Greek Theater, Berkeley, CA | Rollins Band and American Music Club | | [View artwork](https://pearljamopedia.ml/artwork/vs/10-31.jpg){: .btn .btn-outline target="_blank"}
@@ -40,7 +40,7 @@ Pearl Jam played 52 shows during their 1993-1994 tour to support the band's seco
 | December 7, 1993 | Seattle Center Arena, Seattle, WA | Urge Overkill and Six in the Clip | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-7.jpg){: .btn .btn-outline target="_blank"}
 | December 8, 1993 | Seattle Center Arena, Seattle, WA | | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-8.jpg){: .btn .btn-outline target="_blank"}
 | December 9, 1993 | Seattle Center Arena, Seattle, WA | Urge Overkill and Hater | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-9.jpg){: .btn .btn-outline target="_blank"}
-| March 6, 1994 | Paramount Theatre, Denver, CO | The Frogs |
+| March 6, 1994 | Paramount Theatre, Denver, CO | The Frogs | | No artwork available
 | March 7, 1994 | Paramount Theatre, Denver, CO | The Frogs | 
 | March 9, 1994 | Pensacola Civic Center, Pensacola, FL | L7 and Follow for Now
 | March 10, 1994 | Chicago Stadium, [Chicago, IL](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Chicago-IL) | The Frogs and Urge Overkill |

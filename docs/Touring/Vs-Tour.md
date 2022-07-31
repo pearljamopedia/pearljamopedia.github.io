@@ -9,37 +9,37 @@ nav_order: 5
 
 Pearl Jam played 52 shows during their 1993-1994 tour to support the band's second album, *Vs.*:
 
-| Date | Venue | Opening Act | Notes |
-| ---- | ----- | ----------- | ----- |
-| October 25, 1993 | Off Ramp Cafe, [Seattle, WA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA) | |
-| October 27, 1993 | The Catalyst, Santa Cruz, CA | American Music Club | 
-| October 28, 1993 | Warfield Theater, San Francisco, CA | Rollins Band | 
-| October 30, 1993 | SJSU Event Theater, San Jose, CA | Rollins Band | 
-| October 31, 1993 | Hearst Greek Theater, Berkeley, CA | Rollins Band and American Music Club | 
-| November 2, 1993 | Civic Theater, [San Diego, CA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/San-Diego) | American Music Club |
-| November 3, 1993 | Civic Theater, San Diego, CA | American Music Club |
-| November 4, 1993 | Whisky a Go Go, West Hollywood, CA | American Music Club |
-| November 5, 1993 | Empire Polo Club, Indio, CA | American Music Club, Weapon of Choice, and Eleven |
-| November 6, 1993 | Mesa Amphitheatre, Mesa, AZ | Bill Miller and Butthole Surfers |
-| November 7, 1993 | Mesa Amphitheatre, Mesa, AZ | Bill Miller and Butthole Surfers |
-| November 9, 1993 | Convention Exhibition Hall, Albuquerque, NM | Butthole Surfers |
-| November 11, 1993 | UNT Coliseum, Denton, TX | Butthole Surfers |
-| November 12, 1993 | Moody Coliseum, Dallas, TX | Butthole Surfers |
-| November 16, 1993 | Lakefront Arena, New Orleans, LA | [Mudhoney](https://pearljamopedia.ml/docs/Notable-Mentions/Bands/Mudhoney) |
-| November 17, 1993 | Lakefront Arena, New Orleans, LA | Mudhoney |
-| November 19, 1993 | Lakefront Arena, New Orleans, LA | Mudhoney |
-| November 20, 1993 | William R. Johnson Coliseum, Nacogdoches, TX | Mudhoney |
-| November 22, 1993 | Barton Coliseum, Little Rock, AR | Mudhoney |
-| November 23, 1993 | T&T Center, Oklahoma City, OK | Mudhoney |
-| November 24, 1993 | Century II, Wichita, KS | Mudhoney |
-| November 26, 1993 | Balch Fieldhouse, Boulder, CO | Urge Overkill and Mudhoney |
-| November 27, 1993 | Balch Fieldhouse, Boulder, CO | Mudhoney |
-| November 30, 1993 | Aladdin Theatre for the Performing Arts, Las Vegas, NV | Mudhoney | This show was released as *[Vault #5](https://pearljamopedia.ml/docs/Albums/Vault/Vault-5)* and was originally at Sands Hotel, Las Vegas, NV
-| December 1, 1993 | Aladdin Theatre for the Performing Arts, Las Vegas, NV | Mudhoney | Originally at Sands Hotel, Las Vegas, NV
-| December 2, 1993 | Lawlor Events Center, Reno, NV | Urge Overkill, Mudhoney |
-| December 7, 1993 | Seattle Center Arena, Seattle, WA | Urge Overkill and Six in the Clip |
-| December 8, 1993 | Seattle Center Arena, Seattle, WA | |
-| December 9, 1993 | Seattle Center Arena, Seattle, WA | Urge Overkill and Hater |
+| Date | Venue | Opening Act | Notes | Artwork |
+| ---- | ----- | ----------- | ----- | ------- |
+| October 25, 1993 | Off Ramp Cafe, [Seattle, WA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/Seattle-WA) | | | No artwork available
+| October 27, 1993 | The Catalyst, Santa Cruz, CA | American Music Club | | | No artwork available
+| October 28, 1993 | Warfield Theater, San Francisco, CA | Rollins Band | | [View artwork](https://pearljamopedia.ml/artwork/vs/10-28.jpg){: .btn .btn-outline target="_blank"}
+| October 30, 1993 | SJSU Event Theater, San Jose, CA | Rollins Band | | [View artwork](https://pearljamopedia.ml/artwork/vs/10-30.jpg){: .btn .btn-outline target="_blank"}
+| October 31, 1993 | Hearst Greek Theater, Berkeley, CA | Rollins Band and American Music Club | | [View artwork](https://pearljamopedia.ml/artwork/vs/10-31.jpg){: .btn .btn-outline target="_blank"}
+| November 2, 1993 | Civic Theater, [San Diego, CA](https://pearljamopedia.ml/docs/Notable-Mentions/Locations/San-Diego) | American Music Club | | No artwork available
+| November 3, 1993 | Civic Theater, San Diego, CA | American Music Club | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-3.jpg){: .btn .btn-outline target="_blank"}
+| November 4, 1993 | Whisky a Go Go, West Hollywood, CA | American Music Club | | No artwork available
+| November 5, 1993 | Empire Polo Club, Indio, CA | American Music Club, Weapon of Choice, and Eleven | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-5.jpg){: .btn .btn-outline target="_blank"}
+| November 6, 1993 | Mesa Amphitheatre, Mesa, AZ | Bill Miller and Butthole Surfers | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-6.jpg){: .btn .btn-outline target="_blank"}
+| November 7, 1993 | Mesa Amphitheatre, Mesa, AZ | Bill Miller and Butthole Surfers | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-7.jpg){: .btn .btn-outline target="_blank"}
+| November 9, 1993 | Convention Exhibition Hall, Albuquerque, NM | Butthole Surfers | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-9.jpg){: .btn .btn-outline target="_blank"}
+| November 11, 1993 | UNT Coliseum, Denton, TX | Butthole Surfers | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-11.jpg){: .btn .btn-outline target="_blank"}
+| November 12, 1993 | Moody Coliseum, Dallas, TX | Butthole Surfers | | No artwork available
+| November 16, 1993 | Lakefront Arena, New Orleans, LA | [Mudhoney](https://pearljamopedia.ml/docs/Notable-Mentions/Bands/Mudhoney) | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-16.png){: .btn .btn-outline target="_blank"}
+| November 17, 1993 | Lakefront Arena, New Orleans, LA | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-17.jpg){: .btn .btn-outline target="_blank"}
+| November 19, 1993 | Lakefront Arena, New Orleans, LA | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-19.jpg){: .btn .btn-outline target="_blank"}
+| November 20, 1993 | William R. Johnson Coliseum, Nacogdoches, TX | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-20.jpg){: .btn .btn-outline target="_blank"}
+| November 22, 1993 | Barton Coliseum, Little Rock, AR | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-22.jpg){: .btn .btn-outline target="_blank"}
+| November 23, 1993 | T&T Center, Oklahoma City, OK | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-23.jpg){: .btn .btn-outline target="_blank"}
+| November 24, 1993 | Century II, Wichita, KS | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-24.jpg){: .btn .btn-outline target="_blank"}
+| November 26, 1993 | Balch Fieldhouse, Boulder, CO | Urge Overkill and Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-26.jpg){: .btn .btn-outline target="_blank"}
+| November 27, 1993 | Balch Fieldhouse, Boulder, CO | Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/11-27.jpg){: .btn .btn-outline target="_blank"}
+| November 30, 1993 | Aladdin Theatre for the Performing Arts, Las Vegas, NV | Mudhoney | This show was released as *[Vault #5](https://pearljamopedia.ml/docs/Albums/Vault/Vault-5)* and was originally at Sands Hotel, Las Vegas, NV | [View artwork](https://pearljamopedia.ml/artwork/vs/11-30.jpg){: .btn .btn-outline target="_blank"}
+| December 1, 1993 | Aladdin Theatre for the Performing Arts, Las Vegas, NV | Mudhoney | Originally at Sands Hotel, Las Vegas, NV | [View artwork](https://pearljamopedia.ml/artwork/vs/12-1.jpg){: .btn .btn-outline target="_blank"}
+| December 2, 1993 | Lawlor Events Center, Reno, NV | Urge Overkill, Mudhoney | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-2.jpg){: .btn .btn-outline target="_blank"}
+| December 7, 1993 | Seattle Center Arena, Seattle, WA | Urge Overkill and Six in the Clip | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-7.jpg){: .btn .btn-outline target="_blank"}
+| December 8, 1993 | Seattle Center Arena, Seattle, WA | | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-8.jpg){: .btn .btn-outline target="_blank"}
+| December 9, 1993 | Seattle Center Arena, Seattle, WA | Urge Overkill and Hater | | [View artwork](https://pearljamopedia.ml/artwork/vs/12-9.jpg){: .btn .btn-outline target="_blank"}
 | March 6, 1994 | Paramount Theatre, Denver, CO | The Frogs |
 | March 7, 1994 | Paramount Theatre, Denver, CO | The Frogs | 
 | March 9, 1994 | Pensacola Civic Center, Pensacola, FL | L7 and Follow for Now

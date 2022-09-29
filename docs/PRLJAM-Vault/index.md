@@ -14,13 +14,24 @@ Every month, we reach into the Vault and pull out 5 videos, they can be from the
 
 # September '22 *fix pls*
 
+
+I: **Interview** - Jeff and Dave A. before the show **(04/30/1992 - Houston, TX)**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-H270ik6wsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+II: **News Report** - **(10/28/1993 - San Francisco, CA)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihIeGkJ4msQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+III: **Concert** - **(12/08/2002 - Seattle, WA)**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ZPwrstqdXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+IV: **Concert** - **(11/30/1993 - Aladdin Theatre, Las Vegas, NV)**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jxKT80yKKLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+V: **Award Acceptance Speech** - Rock & Roll Hall of Fame Induction Speech **(04/07/2017 - New York, NY)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yB1QrifcO3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -12,7 +12,7 @@ Welcome to **the PRLJAM Vault**, a collection of **hundreds(?)** of pieces of me
 
 Every month, we reach into the Vault and pull out 5 videos, they can be from the 90s, or they can be from Pearl Jam's most recent shows. So, here it is: **the PRLJAM Vault**.
 
-# September '22 *fix pls*
+# September '22 *upload*
 
 ### I: **Interview** - Jeff and Dave A. before the show **(04/30/1992 - Houston, TX)**
 

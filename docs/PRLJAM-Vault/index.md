@@ -46,5 +46,15 @@ Every month, we reach into the Vault and pull out 5 videos, they can be from the
 
 
 
+## Media Credits
+
+- *[pjvideoguy](h) on YouTube* **(videos I, II, and III)**
+- *[given evertoflytwo](h) on YouTube* **(video IV)**
+- *[Rock & Roll Hall of Fame] on YouTube* **(video V)**
+
+
+
+
+
 ###### A note about all of this: *These videos are all hosted on YouTube, as the platform will survive for the forseeable future. All of these videos are being stored on a permanent, physical location as well as YouTube. On the day that YouTube (or the videos that are on it) is no more, the videos that are here will be switched to a dedicated host specifically for this website, instead of YouTube. Thanks.*
 

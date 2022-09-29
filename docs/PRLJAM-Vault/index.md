@@ -48,9 +48,9 @@ Every month, we reach into the Vault and pull out 5 videos, they can be from the
 
 ## Media Credits
 
-- *[pjvideoguy](h) on YouTube* **(videos I, II, and III)**
-- *[given evertoflytwo](h) on YouTube* **(video IV)**
-- *[Rock & Roll Hall of Fame] on YouTube* **(video V)**
+- *[pjvideoguy](https://www.youtube.com/user/pjvideoguy) on YouTube* **(videos I, II, and III)**
+- *[given evertoflytwo](https://www.youtube.com/user/givenevertoflytwo) on YouTube* **(video IV)**
+- *[Rock & Roll Hall of Fame](https://www.youtube.com/c/rockandrollhalloffame) on YouTube* **(video V)**
 
 
 

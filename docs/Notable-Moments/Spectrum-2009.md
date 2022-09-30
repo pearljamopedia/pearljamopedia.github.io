@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tearing Down The Spectrum
-parent: Notable Moments
+parent: Pearl Jam's Finest Moments
 nav_order: 4
 ---
 

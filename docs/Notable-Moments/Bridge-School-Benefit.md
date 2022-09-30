@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bridge School Benefit
-parent: Notable Moments
+parent: Pearl Jam's Finest Moments
 nav_order: 1
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: The 2016 Binaural Show
-parent: Full Album Shows
-grandparent: Notable Moments
-nav_order: 6
+parent: Pearl Jam's Finest Moments
+nav_order: 9
 ---
 
 # The 2016 Binaural Show

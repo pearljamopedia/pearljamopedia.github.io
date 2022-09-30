@@ -1,9 +1,8 @@
 ---
 layout: default
 title: The 2006 Pearl Jam/Self-titled Show
-parent: Full Album Shows
-grandparent: Notable Moments
-nav_order: 7
+parent: Pearl Jam's Finest Moments
+nav_order: 10
 ---
 
 # The 2006 Pearl Jam/Self-titled Show

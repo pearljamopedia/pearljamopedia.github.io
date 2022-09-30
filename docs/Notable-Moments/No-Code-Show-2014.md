@@ -1,9 +1,8 @@
 ---
 layout: default
 title: The 2014 No Code Show
-parent: Full Album Shows
-grandparent: Notable Moments
-nav_order: 4
+parent: Pearl Jam's Finest Moments
+nav_order: 7
 ---
 
 # The 2014 No Code Show

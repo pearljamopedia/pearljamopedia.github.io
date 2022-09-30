@@ -1,9 +1,8 @@
 ---
 layout: default
 title: The 2016 Vs. Show
-parent: Full Album Shows
-grandparent: Notable Moments
-nav_order: 3
+parent: Pearl Jam's Finest Moments
+nav_order: 6
 ---
 
 # The 2016 Vs. Show

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tearing Down The Spectrum
-parent: Notable Events
+parent: Notable Moments
 nav_order: 4
 ---
 

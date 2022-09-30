@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bridge School Benefit
-parent: Notable Events
+parent: Notable Moments
 nav_order: 1
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: The 2016 Binaural Show
-parent: Events
-grand_parent: Notable Mentions
+parent: Full Album Shows
 nav_order: 6
 ---
 
